@@ -47,8 +47,3 @@ That's it, now enjoy the program 🔥
 
 > **Note: You will also require the mpv player to be in your path to play the videos**
 
-Repo link to another-yt-cli: https://github.com/Skyhero-admin/another-yt-cli
-
-Contributers: 
-[Skyhero-admin](https://github.com/Skyhero-admin)
-[viraj0112](https://github.com/viraj0112)
